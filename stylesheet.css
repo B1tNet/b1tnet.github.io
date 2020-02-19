@@ -19,3 +19,7 @@ html {
     background-color: black;
     color: white;
 }
+
+header {
+    border-color: white;
+}
