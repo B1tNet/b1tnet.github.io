@@ -21,8 +21,11 @@ html {
 }
 
 header {
+    padding-top: 20px;
+}
+
+hr {
     border-color: white;
     border-width: 10px;
     border-style: solid;
-    padding-top: 20px;
 }
