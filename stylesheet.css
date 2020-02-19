@@ -22,4 +22,6 @@ html {
 
 header {
     border-color: white;
+    border-width: 10px;
+    border-style: solid;
 }
