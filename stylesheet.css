@@ -34,3 +34,7 @@ div {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
+p {
+    taxt-align: center;
+}
